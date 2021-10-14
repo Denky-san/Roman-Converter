@@ -1,2 +1,5 @@
-# Roman-Converter
-Projeto de um conversor de números Romanos para números Indo-Arábico
+# Roman Converter
+### **Este é um aplicativo desenvolvido com o intuito de aprofundar meu conhecimento na linguagem Java**
+#### Desenvolvimento: Pedro Junqueira
+O conversor de números romanos permite converter algarismos romanos em algarismos decimais! Utilize seu poder com sabedoria!
+![](https://i.imgur.com/cgwHfgo.png)
