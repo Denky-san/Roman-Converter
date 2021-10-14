@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="proj_roma:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/proj_roma_jar</output-path>
+    <root id="archive" name="proj_roma.jar">
+      <element id="module-output" name="proj_roma" />
+    </root>
+  </artifact>
+</component>
